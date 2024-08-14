@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MohamedNawfal-7/News-paper-website-using-React.git/static/css/main.1a2baf04.css",
+    "main.js": "/MohamedNawfal-7/News-paper-website-using-React.git/static/js/main.d9408bc7.js",
+    "index.html": "/MohamedNawfal-7/News-paper-website-using-React.git/index.html",
+    "main.1a2baf04.css.map": "/MohamedNawfal-7/News-paper-website-using-React.git/static/css/main.1a2baf04.css.map",
+    "main.d9408bc7.js.map": "/MohamedNawfal-7/News-paper-website-using-React.git/static/js/main.d9408bc7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a2baf04.css",
+    "static/js/main.d9408bc7.js"
+  ]
+}
